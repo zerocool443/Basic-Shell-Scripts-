@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "You are in  "
+pwd
+
+echo "These are your files " 
+ls -n 
